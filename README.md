@@ -35,7 +35,7 @@ Dart – Programming language for Flutter
 
 Material Design – Beautiful UI elements  
 
-📬 Contact  
+## 📬 Contact  
 
 💡 Developed by [ Anuj Raghuwanshi](https://github.com/AnujRaghuwanshi)
 
