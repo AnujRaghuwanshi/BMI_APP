@@ -11,7 +11,7 @@ A simple and intuitive BMI Calculator app built using Flutter & Dart. This app h
 ✅ Responsive Design – Works smoothly on both Android & iOS devices.
 
 ## 🖥️ Screenshots
-![input_page](https://github.com/user-attachments/assets/1149d4e1-1f17-4a5a-8035-68d817606da5 =200x300)
+<img src="https://github.com/user-attachments/assets/1149d4e1-1f17-4a5a-8035-68d817606da5" alt="input_page" width="200" height="300">
 
 
 ## 🚀 Installation & Usage
