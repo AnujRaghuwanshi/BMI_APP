@@ -16,7 +16,7 @@ A simple and intuitive BMI Calculator app built using Flutter & Dart. This app h
 ## 🚀 Installation & Usage
 1️⃣ Clone the Repository 
 
-git clone https://github.com/AnujRaghuwanshi/BMI_APP.git
+git clone https://github.com/AnujRaghuwanshi/BMI_APP.git<br>
 cd BMI_APP  
 
 2️⃣ Install Dependencies  
